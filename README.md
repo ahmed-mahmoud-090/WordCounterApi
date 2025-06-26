@@ -20,17 +20,17 @@ It also stores analysis history and provides a basic HTML interface.
 - ASP.NET Core Web API (.NET 8)
 - Entity Framework Core
 - SQL Server (LocalDb)
-- HTML + JavaScript (Vanilla)
+- HTML 
 - Git & GitHub
 
 ---
 ## 📸 Screenshots
 
 ### 🔹 API Interface (Swagger)
-![API Screenshot](screenshots/api.png)
+![API Screenshot](api.png)
 
 ### 🔹 HTML Frontend
-![HTML Screenshot](screenshots/html.png)
+![HTML Screenshot](html.png)
 
 ## 📦 How to Run
 
