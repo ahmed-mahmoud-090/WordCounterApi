@@ -24,6 +24,13 @@ It also stores analysis history and provides a basic HTML interface.
 - Git & GitHub
 
 ---
+## 📸 Screenshots
+
+### 🔹 API Interface (Swagger)
+![API Screenshot](screenshots/api.png)
+
+### 🔹 HTML Frontend
+![HTML Screenshot](screenshots/html.png)
 
 ## 📦 How to Run
 
